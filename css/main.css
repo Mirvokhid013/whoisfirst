@@ -1,0 +1,49 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.form-span {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.form-input {
+    display: inline-block;
+    margin-right: 20px;
+    width: 200px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.item {
+    padding: 10px 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.item-text {
+    text-align: center;
+}
+
+.item-soat {
+    display: block;
+    text-align: center;
+}
